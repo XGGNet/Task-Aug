@@ -3,7 +3,7 @@ import os
 import numpy as np
 import tensorflow as tf
 from tensorflow.python.platform import flags
-from data_generator import ImageDataGenerator
+from utils.data_generator import ImageDataGenerator
 # from masf_func_fc4_5_11 import MASF
 import random
 FLAGS = flags.FLAGS
