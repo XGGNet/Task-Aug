@@ -4,8 +4,10 @@ import sys
 import tensorflow as tf
 
 from tensorflow.python.platform import flags
-from utils import conv_block, fc, max_pool, lrn, dropout
-from utils import xent, kd, linear, dice_coefficient##, masked_dice_coefficient
+import sys
+sys.path.append("..")
+from utils.utils import conv_block, fc, max_pool, lrn, dropout
+from utils.utils import xent, kd, linear, dice_coefficient##, masked_dice_coefficient
 from tensorflow.python.framework.ops import convert_to_tensor
 
 FLAGS = flags.FLAGS
