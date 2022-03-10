@@ -37,7 +37,7 @@ def conv_block(inp, cweight, bweight, stride_y=2, stride_x=2, groups=1, reuse=Fa
         weight_groups = tf.split(axis=3, num_or_size_splits=groups, value=cweight)
         output_groups = [convolve(i, k) for i, k in zip(input_groups, weight_groups)]
 
-        conv = tf.concat(axis=3, values=output_groups)
+        conv = tf.concat(axis=3, values=output_groups) 
         conv_output = tf.nn.bias_add(conv, bweight)
 
     relu = tf.nn.relu(conv_output)
