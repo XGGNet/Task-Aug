@@ -3,10 +3,10 @@ import os
 import numpy as np
 import tensorflow as tf
 from tensorflow.python.platform import flags
-from data_generator_seg import ImageDataGenerator
+from utils.data_generator_seg import ImageDataGenerator
 # from masf_func_fc4_5_11 import MASF
 import random
-from utils import masked_np_dice, np_dice,post
+from utils.utils import masked_np_dice, np_dice,post
 import cv2
 import SimpleITK as sitk
 from glob import glob
