@@ -25,3 +25,5 @@
 | Source            Target |  MLDG  | Epi-FCR | MetaReg | JiGen |  MASF | Ours
 |  ---------------------   |  ----  | ------- | ------- | ----- |  ---- | ----
 | BTCV,CHAOS,LITS   IRCAD  |  89.17 |  89.26  |  89.17  | 91.44 | 90.89 | 92.14
+
+See more details in the paper
