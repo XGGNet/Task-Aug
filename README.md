@@ -1,2 +1,12 @@
 # Domain-generalization-with-task-augmentation-for-MIA
-Code is to be collated ...
+## Requirements
+
+* Python == 
+* TensorFlow == 
+
+## Train 
+* python ``
+
+## Test
+* python ``
+*  
