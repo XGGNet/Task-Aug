@@ -4,16 +4,18 @@
 * Python == 
 * TensorFlow == 
 
-## Train 
-### Training on epithelium-stroma classification
+## Epithelium-stroma classification
+### Train 
 * python `main_mame.py`
-### Training on liver segmentation
+
+### Test
+* python `test_mame.py`
+
+## Liver segmentation
+### Train 
 * python `main_seg_mame.py`
 
-## Test
-### Testing on epithelium-stroma classification
-* python `test_mame.py`
-### Testing on liver segmentation
+### Test
 * python `test_seg_mame.py`
 
 ## Results on epithelium-stroma classification
