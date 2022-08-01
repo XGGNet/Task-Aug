@@ -12,23 +12,23 @@ A Pytorch Implementation of ''Domain Generalization on Medical Imaging Classific
 ## Epithelium-stroma classification
 ### Train 
 ```
-python `main_mame.py`
+python main_mame.py
 ```
 
 ### Test
 ```
-python `test_mame.py`
+python test_mame.py
 ```
 
 ## Liver segmentation
 ### Train 
 ```
-python `main_seg_mame.py`
+python main_seg_mame.py
 ```
 
 ### Test
 ```
-python `test_seg_mame.py`
+python test_seg_mame.py
 ```
 
 ## Results on epithelium-stroma classification
