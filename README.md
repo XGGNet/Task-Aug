@@ -1,8 +1,10 @@
 # Domain-generalization-with-task-augmentation-for-MIA
 ## Requirements
 
-* Python == 
-* TensorFlow == 
+- Python == 3.7.4
+- Tensorflow == 1.14.0
+- CUDA 8.0
+
 
 ## Epithelium-stroma classification
 ### Train 
