@@ -1,4 +1,4 @@
-# Domain Generalization on Medical Imaging Classification Using Episodic Training with Task Augmentation (NCA 2021) ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482521009380))
+# Domain Generalization on Medical Imaging Classification Using Episodic Training with Task Augmentation (CBM 2021) ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482521009380))
 
 A Pytorch Implementation of ''Domain Generalization on Medical Imaging Classification Using Episodic Training with Task Augmentation'', which is accepted by the jounal of Computers in Biology and Medicine.
 
