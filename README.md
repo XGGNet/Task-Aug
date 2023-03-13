@@ -1,4 +1,4 @@
-# Domain Generalization on Medical Imaging Classification Using Episodic Training with Task Augmentation (CBM 2021) [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482521009380))
+# Domain Generalization on Medical Imaging Classification Using Episodic Training with Task Augmentation (CBM 2021) ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482521009380))
 
 A Pytorch Implementation of ''Domain Generalization on Medical Imaging Classification Using Episodic Training with Task Augmentation'', which is accepted by the jounal of Computers in Biology and Medicine.
 
@@ -11,7 +11,7 @@ A Pytorch Implementation of ''Domain Generalization on Medical Imaging Classific
 
 ## Epithelium-stroma classification
 ### Dataset
-You could download the annotated pathological datasets of VGH, NKI, IHC and NCH from [here](https://drive.google.com/file/d/1YeFcs2yeJmxCFI3puQKUZuac13La1BpW/view?usp=share_link)
+You can download the annotated pathological datasets of VGH, NKI, IHC and NCH from [here](https://drive.google.com/file/d/1YeFcs2yeJmxCFI3puQKUZuac13La1BpW/view?usp=share_link).
 
 
 ### Train 
